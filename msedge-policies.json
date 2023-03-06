@@ -1,0 +1,21 @@
+{
+    "AllowGamesMenu": false,
+    "DiagnosticData": 0,
+    "EdgeCollectionsEnabled": false,
+    "EdgeEnhanceImagesEnabled": false,
+    "EdgeFollowEnabled": false,
+    "EdgeShoppingAssistantEnabled": false,
+    "HideFirstRunExperience": true,
+    "HubsSidebarEnabled": false,
+    "MicrosoftEdgeInsiderPromotionEnabled": false,
+    "NewTabPageContentEnabled": false,
+    "NewTabPageHideDefaultTopSites": true,
+    "PersonalizationReportingEnabled": false,
+    "PromotionalTabsEnabled": false,
+    "QuickSearchShowMiniMenu": false,
+    "ShowMicrosoftRewards": false,
+    "ShowPDFDefaultRecommendationsEnabled": false,
+    "ShowRecommendationsEnabled": false,
+    "SpotlightExperiencesAndRecommendationsEnabled": false,
+    "VisualSearchEnabled": false
+}

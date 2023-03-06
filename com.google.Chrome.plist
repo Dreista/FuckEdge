@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdvancedProtectionAllowed</key>
+	<false/>
+	<key>AppStoreRatingEnabled</key>
+	<false/>
+	<key>ChromeCleanupEnabled</key>
+	<false/>
+	<key>ChromeCleanupReportingEnabled</key>
+	<false/>
+	<key>ChromeVariations</key>
+	<integer>1</integer>
+	<key>DeviceMetricsReportingEnabled</key>
+	<false/>
+	<key>ExtensionManifestV2Availability</key>
+	<integer>2</integer>
+	<key>MediaRecommendationsEnabled</key>
+	<false/>
+	<key>MetricsReportingEnabled</key>
+	<false/>
+	<key>NTPCardsVisible</key>
+	<false/>
+	<key>NTPContentSuggestionsEnabled</key>
+	<false/>
+	<key>NTPMiddleSlotAnnouncementVisible</key>
+	<false/>
+	<key>SafeBrowsingExtendedReportingEnabled</key>
+	<false/>
+</dict>
+</plist>

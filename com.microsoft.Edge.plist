@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowGamesMenu</key>
+	<false/>
+	<key>DiagnosticData</key>
+	<integer>0</integer>
+	<key>EdgeCollectionsEnabled</key>
+	<false/>
+	<key>EdgeEnhanceImagesEnabled</key>
+	<false/>
+	<key>EdgeFollowEnabled</key>
+	<false/>
+	<key>EdgeShoppingAssistantEnabled</key>
+	<false/>
+	<key>HideFirstRunExperience</key>
+	<true/>
+	<key>HubsSidebarEnabled</key>
+	<false/>
+	<key>MicrosoftEdgeInsiderPromotionEnabled</key>
+	<false/>
+	<key>NewTabPageContentEnabled</key>
+	<false/>
+	<key>NewTabPageHideDefaultTopSites</key>
+	<true/>
+	<key>PersonalizationReportingEnabled</key>
+	<false/>
+	<key>PromotionalTabsEnabled</key>
+	<false/>
+	<key>QuickSearchShowMiniMenu</key>
+	<false/>
+	<key>ShowMicrosoftRewards</key>
+	<false/>
+	<key>ShowPDFDefaultRecommendationsEnabled</key>
+	<false/>
+	<key>ShowRecommendationsEnabled</key>
+	<false/>
+	<key>SpotlightExperiencesAndRecommendationsEnabled</key>
+	<false/>
+	<key>VisualSearchEnabled</key>
+	<false/>
+</dict>
+</plist>
