@@ -1,6 +1,9 @@
 {
+    "AddressBarMicrosoftSearchInBingProviderEnabled": false,
     "AllowGamesMenu": false,
+    "AlternateErrorPagesEnabled": false,
     "DiagnosticData": 0,
+    "DNSInterceptionChecksEnabled": false,
     "EdgeCollectionsEnabled": false,
     "EdgeEnhanceImagesEnabled": false,
     "EdgeFollowEnabled": false,
@@ -13,9 +16,11 @@
     "PersonalizationReportingEnabled": false,
     "PromotionalTabsEnabled": false,
     "QuickSearchShowMiniMenu": false,
+    "ResolveNavigationErrorsUseWebService": false,
     "ShowMicrosoftRewards": false,
     "ShowPDFDefaultRecommendationsEnabled": false,
     "ShowRecommendationsEnabled": false,
+    "SmartScreenEnabled": false,
     "SpotlightExperiencesAndRecommendationsEnabled": false,
     "VisualSearchEnabled": false
 }

@@ -2,10 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AddressBarMicrosoftSearchInBingProviderEnabled</key>
+	<false/>
 	<key>AllowGamesMenu</key>
+	<false/>
+	<key>AlternateErrorPagesEnabled</key>
 	<false/>
 	<key>DiagnosticData</key>
 	<integer>0</integer>
+	<key>DNSInterceptionChecksEnabled</key>
+	<false/>
 	<key>EdgeCollectionsEnabled</key>
 	<false/>
 	<key>EdgeEnhanceImagesEnabled</key>
@@ -30,11 +36,15 @@
 	<false/>
 	<key>QuickSearchShowMiniMenu</key>
 	<false/>
+	<key>ResolveNavigationErrorsUseWebService</key>
+	<false/>
 	<key>ShowMicrosoftRewards</key>
 	<false/>
 	<key>ShowPDFDefaultRecommendationsEnabled</key>
 	<false/>
 	<key>ShowRecommendationsEnabled</key>
+	<false/>
+	<key>SmartScreenEnabled</key>
 	<false/>
 	<key>SpotlightExperiencesAndRecommendationsEnabled</key>
 	<false/>
