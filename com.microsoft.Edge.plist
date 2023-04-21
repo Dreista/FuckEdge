@@ -8,6 +8,8 @@
 	<false/>
 	<key>AlternateErrorPagesEnabled</key>
 	<false/>
+	<key>CryptoWalletEnabled</key>
+	<false/>
 	<key>DiagnosticData</key>
 	<integer>0</integer>
 	<key>DNSInterceptionChecksEnabled</key>
@@ -37,6 +39,8 @@
 	<key>QuickSearchShowMiniMenu</key>
 	<false/>
 	<key>ResolveNavigationErrorsUseWebService</key>
+	<false/>
+	<key>ShowAcrobatSubscriptionButton</key>
 	<false/>
 	<key>ShowMicrosoftRewards</key>
 	<false/>

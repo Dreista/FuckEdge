@@ -4,6 +4,7 @@ Windows Registry Editor Version 5.00
 "AddressBarMicrosoftSearchInBingProviderEnabled"=dword:00000000
 "AllowGamesMenu"=dword:00000000
 "AlternateErrorPagesEnabled"=dword:00000000
+"CryptoWalletEnabled"=dword:00000000
 "DiagnosticData"=dword:00000000
 "DNSInterceptionChecksEnabled"=dword:00000000
 "EdgeCollectionsEnabled"=dword:00000000
@@ -19,6 +20,7 @@ Windows Registry Editor Version 5.00
 "PromotionalTabsEnabled"=dword:00000000
 "QuickSearchShowMiniMenu"=dword:00000000
 "ResolveNavigationErrorsUseWebService"=dword:00000000
+"ShowAcrobatSubscriptionButton"=dword:00000000
 "ShowMicrosoftRewards"=dword:00000000
 "ShowPDFDefaultRecommendationsEnabled"=dword:00000000
 "ShowRecommendationsEnabled"=dword:00000000
