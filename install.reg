@@ -26,4 +26,5 @@ Windows Registry Editor Version 5.00
 "ShowRecommendationsEnabled"=dword:00000000
 "SmartScreenEnabled"=dword:00000000
 "SpotlightExperiencesAndRecommendationsEnabled"=dword:00000000
+"TabServicesEnabled"=dword:00000000
 "VisualSearchEnabled"=dword:00000000

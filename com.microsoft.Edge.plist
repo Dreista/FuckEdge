@@ -52,6 +52,8 @@
 	<false/>
 	<key>SpotlightExperiencesAndRecommendationsEnabled</key>
 	<false/>
+	<key>TabServicesEnabled</key>
+	<false/>
 	<key>VisualSearchEnabled</key>
 	<false/>
 </dict>

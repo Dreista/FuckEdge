@@ -24,5 +24,6 @@
     "ShowRecommendationsEnabled": false,
     "SmartScreenEnabled": false,
     "SpotlightExperiencesAndRecommendationsEnabled": false,
+    "TabServicesEnabled": false,
     "VisualSearchEnabled": false
 }
