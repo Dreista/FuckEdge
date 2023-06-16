@@ -2,8 +2,11 @@
     "AddressBarMicrosoftSearchInBingProviderEnabled": false,
     "AllowGamesMenu": false,
     "AlternateErrorPagesEnabled": false,
+    "ComposeInlineEnabled": false,
     "CryptoWalletEnabled": false,
+    "DefaultBrowserSettingsCampaignEnabled": false,
     "DiagnosticData": 0,
+    "DiscoverPageContextEnabled": false,
     "DNSInterceptionChecksEnabled": false,
     "EdgeCollectionsEnabled": false,
     "EdgeEnhanceImagesEnabled": false,
@@ -18,12 +21,15 @@
     "PromotionalTabsEnabled": false,
     "QuickSearchShowMiniMenu": false,
     "ResolveNavigationErrorsUseWebService": false,
+    "SearchForImageEnabled": false,
     "ShowAcrobatSubscriptionButton": false,
     "ShowMicrosoftRewards": false,
     "ShowPDFDefaultRecommendationsEnabled": false,
     "ShowRecommendationsEnabled": false,
     "SmartScreenEnabled": false,
     "SpotlightExperiencesAndRecommendationsEnabled": false,
+    "StandaloneHubsSidebarEnabled": false,
     "TabServicesEnabled": false,
-    "VisualSearchEnabled": false
+    "VisualSearchEnabled": false,
+    "WalletDonationEnabled": false
 }

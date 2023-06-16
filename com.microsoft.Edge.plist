@@ -8,10 +8,16 @@
 	<false/>
 	<key>AlternateErrorPagesEnabled</key>
 	<false/>
+	<key>ComposeInlineEnabled</key>
+	<false/>
 	<key>CryptoWalletEnabled</key>
+	<false/>
+	<key>DefaultBrowserSettingsCampaignEnabled</key>
 	<false/>
 	<key>DiagnosticData</key>
 	<integer>0</integer>
+	<key>DiscoverPageContextEnabled</key>
+	<false/>
 	<key>DNSInterceptionChecksEnabled</key>
 	<false/>
 	<key>EdgeCollectionsEnabled</key>
@@ -40,6 +46,8 @@
 	<false/>
 	<key>ResolveNavigationErrorsUseWebService</key>
 	<false/>
+	<key>SearchForImageEnabled</key>
+	<false/>
 	<key>ShowAcrobatSubscriptionButton</key>
 	<false/>
 	<key>ShowMicrosoftRewards</key>
@@ -52,9 +60,13 @@
 	<false/>
 	<key>SpotlightExperiencesAndRecommendationsEnabled</key>
 	<false/>
+	<key>StandaloneHubsSidebarEnabled</key>
+	<false/>
 	<key>TabServicesEnabled</key>
 	<false/>
 	<key>VisualSearchEnabled</key>
+	<false/>
+	<key>WalletDonationEnabled</key>
 	<false/>
 </dict>
 </plist>
