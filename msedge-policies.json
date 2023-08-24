@@ -12,6 +12,8 @@
     "EdgeEnhanceImagesEnabled": false,
     "EdgeFollowEnabled": false,
     "EdgeShoppingAssistantEnabled": false,
+    "EdgeWalletCheckoutEnabled": false,
+    "EdgeWalletEtreeEnabled": false,
     "HideFirstRunExperience": true,
     "HubsSidebarEnabled": false,
     "MicrosoftEdgeInsiderPromotionEnabled": false,

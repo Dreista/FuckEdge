@@ -14,6 +14,8 @@ Windows Registry Editor Version 5.00
 "EdgeEnhanceImagesEnabled"=dword:00000000
 "EdgeFollowEnabled"=dword:00000000
 "EdgeShoppingAssistantEnabled"=dword:00000000
+"EdgeWalletCheckoutEnabled"=dword:00000000
+"EdgeWalletEtreeEnabled"=dword:00000000
 "HideFirstRunExperience"=dword:00000001
 "HubsSidebarEnabled"=dword:00000000
 "MicrosoftEdgeInsiderPromotionEnabled"=dword:00000000

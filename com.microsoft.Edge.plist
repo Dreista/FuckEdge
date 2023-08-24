@@ -28,6 +28,10 @@
 	<false/>
 	<key>EdgeShoppingAssistantEnabled</key>
 	<false/>
+	<key>EdgeWalletCheckoutEnabled</key>
+	<false/>
+	<key>EdgeWalletEtreeEnabled</key>
+	<false/>
 	<key>HideFirstRunExperience</key>
 	<true/>
 	<key>HubsSidebarEnabled</key>
