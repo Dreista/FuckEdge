@@ -19,13 +19,17 @@ Windows Registry Editor Version 5.00
 "HideFirstRunExperience"=dword:00000001
 "HubsSidebarEnabled"=dword:00000000
 "MicrosoftEdgeInsiderPromotionEnabled"=dword:00000000
+"NewTabPageBingChatEnabled"=dword:00000000
 "NewTabPageContentEnabled"=dword:00000000
 "NewTabPageHideDefaultTopSites"=dword:00000001
 "PersonalizationReportingEnabled"=dword:00000000
+"PinBrowserEssentialsToolbarButton"=dword:00000000
 "PromotionalTabsEnabled"=dword:00000000
 "QuickSearchShowMiniMenu"=dword:00000000
 "ResolveNavigationErrorsUseWebService"=dword:00000000
+"SearchbarAllowed"=dword:00000000
 "SearchForImageEnabled"=dword:00000000
+"SearchbarIsEnabledOnStartup"=dword:00000000
 "ShowAcrobatSubscriptionButton"=dword:00000000
 "ShowMicrosoftRewards"=dword:00000000
 "ShowPDFDefaultRecommendationsEnabled"=dword:00000000
@@ -33,6 +37,7 @@ Windows Registry Editor Version 5.00
 "SmartScreenEnabled"=dword:00000000
 "SpotlightExperiencesAndRecommendationsEnabled"=dword:00000000
 "StandaloneHubsSidebarEnabled"=dword:00000000
+"StartupBoostEnabled"=dword:00000000
 "TabServicesEnabled"=dword:00000000
 "VisualSearchEnabled"=dword:00000000
 "WalletDonationEnabled"=dword:00000000

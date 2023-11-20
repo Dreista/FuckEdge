@@ -38,11 +38,15 @@
 	<false/>
 	<key>MicrosoftEdgeInsiderPromotionEnabled</key>
 	<false/>
+	<key>NewTabPageBingChatEnabled</key>
+	<false/>
 	<key>NewTabPageContentEnabled</key>
 	<false/>
 	<key>NewTabPageHideDefaultTopSites</key>
 	<true/>
 	<key>PersonalizationReportingEnabled</key>
+	<false/>
+	<key>PinBrowserEssentialsToolbarButton</key>
 	<false/>
 	<key>PromotionalTabsEnabled</key>
 	<false/>
@@ -50,7 +54,11 @@
 	<false/>
 	<key>ResolveNavigationErrorsUseWebService</key>
 	<false/>
+	<key>SearchbarAllowed</key>
+	<false/>
 	<key>SearchForImageEnabled</key>
+	<false/>
+	<key>SearchbarIsEnabledOnStartup</key>
 	<false/>
 	<key>ShowAcrobatSubscriptionButton</key>
 	<false/>
@@ -65,6 +73,8 @@
 	<key>SpotlightExperiencesAndRecommendationsEnabled</key>
 	<false/>
 	<key>StandaloneHubsSidebarEnabled</key>
+	<false/>
+	<key>StartupBoostEnabled</key>
 	<false/>
 	<key>TabServicesEnabled</key>
 	<false/>
