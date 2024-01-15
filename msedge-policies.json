@@ -8,6 +8,7 @@
     "DiagnosticData": 0,
     "DiscoverPageContextEnabled": false,
     "DNSInterceptionChecksEnabled": false,
+    "Edge3PSerpTelemetryEnabled": false,
     "EdgeCollectionsEnabled": false,
     "EdgeEnhanceImagesEnabled": false,
     "EdgeFollowEnabled": false,

@@ -20,6 +20,8 @@
 	<false/>
 	<key>DNSInterceptionChecksEnabled</key>
 	<false/>
+	<key>Edge3PSerpTelemetryEnabled</key>
+	<false/>
 	<key>EdgeCollectionsEnabled</key>
 	<false/>
 	<key>EdgeEnhanceImagesEnabled</key>

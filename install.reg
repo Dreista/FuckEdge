@@ -10,6 +10,7 @@ Windows Registry Editor Version 5.00
 "DiagnosticData"=dword:00000000
 "DiscoverPageContextEnabled"=dword:00000000
 "DNSInterceptionChecksEnabled"=dword:00000000
+"Edge3PSerpTelemetryEnabled"=dword:00000000
 "EdgeCollectionsEnabled"=dword:00000000
 "EdgeEnhanceImagesEnabled"=dword:00000000
 "EdgeFollowEnabled"=dword:00000000
